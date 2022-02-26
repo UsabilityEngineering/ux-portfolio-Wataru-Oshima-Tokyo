@@ -7,4 +7,8 @@
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Journal01](j01/)
+
+[Journal02](j01/)
+
+[Journal03](j01/)
