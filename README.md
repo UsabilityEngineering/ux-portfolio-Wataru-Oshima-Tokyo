@@ -9,6 +9,6 @@
 
 [Journal01](j01/)
 
-[Journal02](j01/)
+[Journal02](j02/)
 
-[Journal03](j01/)
+[Journal03](j03/)
