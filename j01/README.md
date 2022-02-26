@@ -1,6 +1,10 @@
 # Macbook pro touch bar
-Journal1
+
+
+## Touch bar keys
 ![touch_bar02](https://github.com/UsabilityEngineering/ux-portfolio-Wataru-Oshima-Tokyo/blob/master/assets/touchbar02.png)
+
+## Function keys
 ![touch_bar01](https://github.com/UsabilityEngineering/ux-portfolio-Wataru-Oshima-Tokyo/blob/master/assets/touchbar01.png)
 
 
