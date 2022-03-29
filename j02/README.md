@@ -1,4 +1,4 @@
-# Macbook pro touch bar
+# Macbook pro Japanese keyboard version
 
 
 ## Japanese keyboard
