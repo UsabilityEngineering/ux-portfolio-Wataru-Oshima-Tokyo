@@ -1,4 +1,4 @@
-# Revision of Journal entry 01 and 02
+# Journal 03: Revision of Journal entry 01 and 02
 
 # Journal 01
 # MacBook pro touch bar
